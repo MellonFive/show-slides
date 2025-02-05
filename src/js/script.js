@@ -13,3 +13,9 @@ function nextImage() {
 
     document.getElementById("radio" + count).checked = true;
 }
+
+
+// const leitorDeArquivos = new FileReader();
+// leitorDeArquivos.readAsDataURL(imagemEnviada);
+// previaDaImagem.src = load.target.result;
+
