@@ -13,12 +13,12 @@ body {
 }
 
 .swiper {
-    width: 700px;
+    width: 50%;
 }
 
 .swiper-slide img {
     width: 100%;  
-    max-width: 400px;
+    max-width: 600px;
     max-height: 550px;  
     object-fit: cover; 
     display: block;
