@@ -3,20 +3,13 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-
     background-color: #000;
     color: #FFF;
 }
 
-.input {
-    margin: 2rem auto;
-    font-size: 1rem;
-}
-
 .swiper {
-    width: 50%;
+    display: block;
+    width: 100%;
 }
 
 .swiper-slide img {
@@ -24,7 +17,6 @@ body {
     max-width: 600px;
     max-height: 550px;  
     object-fit: cover; 
-    display: block;
-    margin: auto;
+    display: block; 
 }
 
